@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iM09akWRv0Y=",
+  "dgSpecHash": "dpSMvra1nsc=",
   "success": true,
-  "projectFilePath": "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj",
+  "projectFilePath": "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoC.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21e3d44be1e34c987c8a5a953a49dd2dd6dc1796")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoC.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoC.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

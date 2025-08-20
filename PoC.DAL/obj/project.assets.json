@@ -489,11 +489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\RESTPoC\\PoC.DAL\\PoC.DAL.csproj",
+      "projectUniqueName": "D:\\Repos\\REST.PoC\\PoC.DAL\\PoC.DAL.csproj",
       "projectName": "PoC.DAL",
-      "projectPath": "D:\\Repos\\RESTPoC\\PoC.DAL\\PoC.DAL.csproj",
+      "projectPath": "D:\\Repos\\REST.PoC\\PoC.DAL\\PoC.DAL.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\RESTPoC\\PoC.DAL\\obj\\",
+      "outputPath": "D:\\Repos\\REST.PoC\\PoC.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\Shared\\NuGetPackages"
@@ -514,8 +514,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj": {
-              "projectPath": "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj"
+            "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj": {
+              "projectPath": "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj"
             }
           }
         }

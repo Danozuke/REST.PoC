@@ -9,3 +9,15 @@ D:\Repos\RESTPoC\PoC.Models\obj\Debug\net9.0\PoC.Models.dll
 D:\Repos\RESTPoC\PoC.Models\obj\Debug\net9.0\refint\PoC.Models.dll
 D:\Repos\RESTPoC\PoC.Models\obj\Debug\net9.0\PoC.Models.pdb
 D:\Repos\RESTPoC\PoC.Models\obj\Debug\net9.0\ref\PoC.Models.dll
+D:\Repos\REST.PoC\PoC.Models\bin\Debug\net9.0\PoC.Models.deps.json
+D:\Repos\REST.PoC\PoC.Models\bin\Debug\net9.0\PoC.Models.dll
+D:\Repos\REST.PoC\PoC.Models\bin\Debug\net9.0\PoC.Models.pdb
+D:\Repos\REST.PoC\PoC.Models\obj\Debug\net9.0\PoC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\REST.PoC\PoC.Models\obj\Debug\net9.0\PoC.Models.AssemblyInfoInputs.cache
+D:\Repos\REST.PoC\PoC.Models\obj\Debug\net9.0\PoC.Models.AssemblyInfo.cs
+D:\Repos\REST.PoC\PoC.Models\obj\Debug\net9.0\PoC.Models.csproj.CoreCompileInputs.cache
+D:\Repos\REST.PoC\PoC.Models\obj\Debug\net9.0\PoC.Models.sourcelink.json
+D:\Repos\REST.PoC\PoC.Models\obj\Debug\net9.0\PoC.Models.dll
+D:\Repos\REST.PoC\PoC.Models\obj\Debug\net9.0\refint\PoC.Models.dll
+D:\Repos\REST.PoC\PoC.Models\obj\Debug\net9.0\PoC.Models.pdb
+D:\Repos\REST.PoC\PoC.Models\obj\Debug\net9.0\ref\PoC.Models.dll

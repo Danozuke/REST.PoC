@@ -19,7 +19,7 @@ namespace PoC.API.Controllers
         }
 
         [HttpPost]
-        public IActionResult GetToken([FromBody] LoginData loginData)
+        public IActionResult Token([FromBody] LoginData loginData)
         {
             if (loginData == null)
             {

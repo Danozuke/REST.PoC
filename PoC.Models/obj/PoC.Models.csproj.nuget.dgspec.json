@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj": {}
+    "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj": {
+    "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj",
+        "projectUniqueName": "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj",
         "projectName": "PoC.Models",
-        "projectPath": "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj",
+        "projectPath": "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\RESTPoC\\PoC.Models\\obj\\",
+        "outputPath": "D:\\Repos\\REST.PoC\\PoC.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\RESTPoC\\PoC.API\\PoC.API.csproj": {}
+    "D:\\Repos\\REST.PoC\\PoC.API\\PoC.API.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\RESTPoC\\PoC.API\\PoC.API.csproj": {
+    "D:\\Repos\\REST.PoC\\PoC.API\\PoC.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\RESTPoC\\PoC.API\\PoC.API.csproj",
+        "projectUniqueName": "D:\\Repos\\REST.PoC\\PoC.API\\PoC.API.csproj",
         "projectName": "PoC.API",
-        "projectPath": "D:\\Repos\\RESTPoC\\PoC.API\\PoC.API.csproj",
+        "projectPath": "D:\\Repos\\REST.PoC\\PoC.API\\PoC.API.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\RESTPoC\\PoC.API\\obj\\",
+        "outputPath": "D:\\Repos\\REST.PoC\\PoC.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Repos\\RESTPoC\\PoC.DAL\\PoC.DAL.csproj": {
-                "projectPath": "D:\\Repos\\RESTPoC\\PoC.DAL\\PoC.DAL.csproj"
+              "D:\\Repos\\REST.PoC\\PoC.DAL\\PoC.DAL.csproj": {
+                "projectPath": "D:\\Repos\\REST.PoC\\PoC.DAL\\PoC.DAL.csproj"
               },
-              "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj": {
-                "projectPath": "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj"
+              "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj": {
+                "projectPath": "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "D:\\Repos\\RESTPoC\\PoC.DAL\\PoC.DAL.csproj": {
+    "D:\\Repos\\REST.PoC\\PoC.DAL\\PoC.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\RESTPoC\\PoC.DAL\\PoC.DAL.csproj",
+        "projectUniqueName": "D:\\Repos\\REST.PoC\\PoC.DAL\\PoC.DAL.csproj",
         "projectName": "PoC.DAL",
-        "projectPath": "D:\\Repos\\RESTPoC\\PoC.DAL\\PoC.DAL.csproj",
+        "projectPath": "D:\\Repos\\REST.PoC\\PoC.DAL\\PoC.DAL.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\RESTPoC\\PoC.DAL\\obj\\",
+        "outputPath": "D:\\Repos\\REST.PoC\\PoC.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\Shared\\NuGetPackages"
@@ -121,8 +121,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj": {
-                "projectPath": "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj"
+              "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj": {
+                "projectPath": "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj"
               }
             }
           }
@@ -176,14 +176,14 @@
         }
       }
     },
-    "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj": {
+    "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj",
+        "projectUniqueName": "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj",
         "projectName": "PoC.Models",
-        "projectPath": "D:\\Repos\\RESTPoC\\PoC.Models\\PoC.Models.csproj",
+        "projectPath": "D:\\Repos\\REST.PoC\\PoC.Models\\PoC.Models.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\RESTPoC\\PoC.Models\\obj\\",
+        "outputPath": "D:\\Repos\\REST.PoC\\PoC.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio\\Shared\\NuGetPackages"
