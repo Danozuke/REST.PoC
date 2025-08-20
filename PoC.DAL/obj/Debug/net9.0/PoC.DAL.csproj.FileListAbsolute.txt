@@ -1,0 +1,15 @@
+D:\Repos\RESTPoC\PoC.DAL\bin\Debug\net9.0\PoC.DAL.deps.json
+D:\Repos\RESTPoC\PoC.DAL\bin\Debug\net9.0\PoC.DAL.dll
+D:\Repos\RESTPoC\PoC.DAL\bin\Debug\net9.0\PoC.DAL.pdb
+D:\Repos\RESTPoC\PoC.DAL\bin\Debug\net9.0\PoC.Models.dll
+D:\Repos\RESTPoC\PoC.DAL\bin\Debug\net9.0\PoC.Models.pdb
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\PoC.DAL.csproj.AssemblyReference.cache
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\PoC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\PoC.DAL.AssemblyInfoInputs.cache
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\PoC.DAL.AssemblyInfo.cs
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\PoC.DAL.csproj.CoreCompileInputs.cache
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\PoC.DAL.csproj.Up2Date
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\PoC.DAL.dll
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\refint\PoC.DAL.dll
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\PoC.DAL.pdb
+D:\Repos\RESTPoC\PoC.DAL\obj\Debug\net9.0\ref\PoC.DAL.dll
